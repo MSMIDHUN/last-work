@@ -1,0 +1,67 @@
+@import url('https://fonts.googleapis.com/css2?family=Fascinate&family=League+Gothic&family=Pacifico&display=swap');
+/* .pic{
+     width:100%;
+    height: 400px;
+} */
+.footer{
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    height: 100px;
+    background-color: black;
+}
+.footer p{
+    color: white;
+}
+.pic{
+    height: 465px;
+}
+.bottom-left {
+    position: absolute;
+    bottom: 8px;
+    left: 16px;
+    color: rgb(255, 255, 255);
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif
+}
+.card-text{
+     color: black;
+     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.card{
+ margin: 10px;
+ margin-top: 10px;
+ margin-left: 40px;
+ background-color: black;
+}
+body{
+    height: 800px;
+    background-color: black;
+    background-size: cover;
+}
+.dept{
+    text-align: center;
+}
+.email{
+    float:left;
+}
+.copyright{
+    text-align: center;
+}
+.cd img{
+    height: 178px;
+    margin-top:10px;
+}
+.carousel{
+    width: 1235px;
+    height: 488px;
+    margin-left: 57px;
+    margin-top: 48px;
+    margin-bottom: 212px;
+}
+
+.text-right{
+    color: antiquewhite;
+}
+.text-center{
+    color: antiquewhite;
+}
